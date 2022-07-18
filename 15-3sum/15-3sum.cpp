@@ -11,7 +11,9 @@ public:
             while(l<h){
                 int current=nums[i]+nums[l]+nums[h];
                 if(current==0){
-                    t.insert({nums[i],nums[l++],nums[h--]});
+                    t.insert({nums[i],nums[l],nums[h]});
+                    l++;
+                    h--;
                 }
                 else if(current>0)
                     h--;
