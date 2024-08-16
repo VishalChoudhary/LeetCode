@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VishalChoudhary/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/VishalChoudhary/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0493-reverse-pairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishalChoudhary/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/VishalChoudhary/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/VishalChoudhary/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0493-reverse-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
