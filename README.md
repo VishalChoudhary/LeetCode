@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/VishalChoudhary/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/VishalChoudhary/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/VishalChoudhary/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0000-flatten-a-linked-list](https://github.com/VishalChoudhary/LeetCode/tree/master/0000-flatten-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -164,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/VishalChoudhary/LeetCode/tree/master/0455-assign-cookies) |
+| [0154-n-meeting-in-one-room](https://github.com/VishalChoudhary/LeetCode/tree/master/0154-n-meeting-in-one-room) |
 <!---LeetCode Topics End-->
