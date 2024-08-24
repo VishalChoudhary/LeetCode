@@ -167,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/VishalChoudhary/LeetCode/tree/master/0455-assign-cookies) |
 | [0154-n-meeting-in-one-room](https://github.com/VishalChoudhary/LeetCode/tree/master/0154-n-meeting-in-one-room) |
 | [0343-minimum-number-of-platforms](https://github.com/VishalChoudhary/LeetCode/tree/master/0343-minimum-number-of-platforms) |
+| [0015-job-sequence-problem](https://github.com/VishalChoudhary/LeetCode/tree/master/0015-job-sequence-problem) |
 <!---LeetCode Topics End-->
