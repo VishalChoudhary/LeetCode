@@ -168,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-n-meeting-in-one-room](https://github.com/VishalChoudhary/LeetCode/tree/master/0154-n-meeting-in-one-room) |
 | [0343-minimum-number-of-platforms](https://github.com/VishalChoudhary/LeetCode/tree/master/0343-minimum-number-of-platforms) |
 | [0015-job-sequence-problem](https://github.com/VishalChoudhary/LeetCode/tree/master/0015-job-sequence-problem) |
+| [0056-fractional-knapsack](https://github.com/VishalChoudhary/LeetCode/tree/master/0056-fractional-knapsack) |
 <!---LeetCode Topics End-->
