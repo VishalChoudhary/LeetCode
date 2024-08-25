@@ -1,4 +1,4 @@
- * Definition for linked list
+ * Definition for linked list.
  * class Node {
  *  public:
  *		int data;
