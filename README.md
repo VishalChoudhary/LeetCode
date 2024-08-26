@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VishalChoudhary/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/VishalChoudhary/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VishalChoudhary/LeetCode/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/VishalChoudhary/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishalChoudhary/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/VishalChoudhary/LeetCode/tree/master/0322-coin-change) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0090-subsets-ii) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/VishalChoudhary/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Linked List
 |  |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/VishalChoudhary/LeetCode/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
