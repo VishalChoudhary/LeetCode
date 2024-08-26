@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/VishalChoudhary/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/VishalChoudhary/LeetCode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/VishalChoudhary/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VishalChoudhary/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/VishalChoudhary/LeetCode/tree/master/0066-plus-one) |
@@ -186,5 +187,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
