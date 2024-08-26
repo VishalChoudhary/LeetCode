@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/VishalChoudhary/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/VishalChoudhary/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/VishalChoudhary/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VishalChoudhary/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/VishalChoudhary/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/VishalChoudhary/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/VishalChoudhary/LeetCode/tree/master/0118-pascals-triangle) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VishalChoudhary/LeetCode/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VishalChoudhary/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VishalChoudhary/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/VishalChoudhary/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishalChoudhary/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/VishalChoudhary/LeetCode/tree/master/0322-coin-change) |
