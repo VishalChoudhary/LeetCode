@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/VishalChoudhary/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/VishalChoudhary/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/VishalChoudhary/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/VishalChoudhary/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/VishalChoudhary/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/VishalChoudhary/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/VishalChoudhary/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/VishalChoudhary/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/VishalChoudhary/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VishalChoudhary/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/VishalChoudhary/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/VishalChoudhary/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/VishalChoudhary/LeetCode/tree/master/0066-plus-one) |
 ## Divide and Conquer
