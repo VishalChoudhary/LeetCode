@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VishalChoudhary/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/VishalChoudhary/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VishalChoudhary/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/VishalChoudhary/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishalChoudhary/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/VishalChoudhary/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/VishalChoudhary/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/VishalChoudhary/LeetCode/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VishalChoudhary/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/VishalChoudhary/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/VishalChoudhary/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/VishalChoudhary/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VishalChoudhary/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
