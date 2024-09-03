@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishalChoudhary/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/VishalChoudhary/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/VishalChoudhary/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/VishalChoudhary/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/VishalChoudhary/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/VishalChoudhary/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/VishalChoudhary/LeetCode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/VishalChoudhary/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VishalChoudhary/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
