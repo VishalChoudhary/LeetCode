@@ -290,4 +290,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [0012-bottom-view-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0012-bottom-view-of-binary-tree) |
+| [1105-top-view-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1105-top-view-of-binary-tree) |
 <!---LeetCode Topics End-->
