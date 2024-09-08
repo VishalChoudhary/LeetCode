@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/VishalChoudhary/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/VishalChoudhary/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/VishalChoudhary/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Matrix
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VishalChoudhary/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/VishalChoudhary/LeetCode/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/VishalChoudhary/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/VishalChoudhary/LeetCode/tree/master/0322-coin-change) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-boundary-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0171-boundary-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/VishalChoudhary/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VishalChoudhary/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -283,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VishalChoudhary/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
