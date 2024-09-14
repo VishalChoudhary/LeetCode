@@ -234,6 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/VishalChoudhary/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0319-stack-implementation-using-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0319-stack-implementation-using-array) |
+| [0414-queue-implementation-using-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0414-queue-implementation-using-array) |
+
 ## Monotonic Stack
 |  |
 | ------- |
