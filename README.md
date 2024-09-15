@@ -244,6 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-queue-implementation-using-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0414-queue-implementation-using-array) |
 | [0496-next-greater-element-i](https://github.com/VishalChoudhary/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1231-circular-queue-implementation-using-array](https://github.com/VishalChoudhary/LeetCode/tree/master/1231-circular-queue-implementation-using-array) |
+| [0291-sort-a-stack](https://github.com/VishalChoudhary/LeetCode/tree/master/0291-sort-a-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
