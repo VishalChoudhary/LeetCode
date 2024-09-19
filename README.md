@@ -153,6 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/VishalChoudhary/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0493-reverse-pairs) |
+| [0311-implement-lower-bound](https://github.com/VishalChoudhary/LeetCode/tree/master/0311-implement-lower-bound) |
+| [0312-implement-upper-bound](https://github.com/VishalChoudhary/LeetCode/tree/master/0312-implement-upper-bound) |
 ## Binary Indexed Tree
 |  |
 | ------- |
