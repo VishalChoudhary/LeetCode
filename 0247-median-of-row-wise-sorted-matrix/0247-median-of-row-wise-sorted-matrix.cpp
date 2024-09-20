@@ -16,7 +16,8 @@ int upperBound(vector<int> &arr, int n, int x) {
 int countEqualSmall(vector<vector<int>> &matrix, int n, int m, int x) {
     int cnt = 0;
     for (int i = 0; i < n; i++) {
-        cnt += upperBound(matrix[i], m, x); // Pass m (number of columns) instead of n
+        // Pass m (number of columns) instead of n
+        cnt += upperBound(matrix[i], m, x); 
     }
     return cnt;
 }
