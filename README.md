@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/VishalChoudhary/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/VishalChoudhary/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/VishalChoudhary/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0039-combination-sum) |
@@ -150,15 +151,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VishalChoudhary/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/VishalChoudhary/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/VishalChoudhary/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0247-median-of-row-wise-sorted-matrix](https://github.com/VishalChoudhary/LeetCode/tree/master/0247-median-of-row-wise-sorted-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0311-implement-lower-bound](https://github.com/VishalChoudhary/LeetCode/tree/master/0311-implement-lower-bound) |
 | [0312-implement-upper-bound](https://github.com/VishalChoudhary/LeetCode/tree/master/0312-implement-upper-bound) |
 | [0493-reverse-pairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
-| [0247-median-of-row-wise-sorted-matrix](https://github.com/VishalChoudhary/LeetCode/tree/master/0247-median-of-row-wise-sorted-matrix) |
-
 ## Binary Indexed Tree
 |  |
 | ------- |
