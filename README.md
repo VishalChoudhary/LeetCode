@@ -157,6 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-implement-upper-bound](https://github.com/VishalChoudhary/LeetCode/tree/master/0312-implement-upper-bound) |
 | [0493-reverse-pairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0247-median-of-row-wise-sorted-matrix](https://github.com/VishalChoudhary/LeetCode/tree/master/0247-median-of-row-wise-sorted-matrix) |
+
 ## Binary Indexed Tree
 |  |
 | ------- |
