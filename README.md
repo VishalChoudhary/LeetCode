@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishalChoudhary/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VishalChoudhary/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VishalChoudhary/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/VishalChoudhary/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VishalChoudhary/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VishalChoudhary/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VishalChoudhary/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0268-missing-number) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VishalChoudhary/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0006-kth-element-of-two-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0006-kth-element-of-two-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/VishalChoudhary/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/VishalChoudhary/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -167,10 +172,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0311-implement-lower-bound](https://github.com/VishalChoudhary/LeetCode/tree/master/0311-implement-lower-bound) |
 | [0312-implement-upper-bound](https://github.com/VishalChoudhary/LeetCode/tree/master/0312-implement-upper-bound) |
+| [00377-aggresive-cows](https://github.com/VishalChoudhary/LeetCode/tree/master/0377-aggresive-cows) |
 | [0493-reverse-pairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
-| [0006-kth-element-of-two-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0006-kth-element-of-two-sorted-array) |
-| [00377-aggresive-cows](https://github.com/VishalChoudhary/LeetCode/tree/master/0377-aggresive-cows) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -405,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VishalChoudhary/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
