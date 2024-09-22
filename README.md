@@ -24,8 +24,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/VishalChoudhary/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/VishalChoudhary/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VishalChoudhary/LeetCode/tree/master/0075-sort-colors) |
+| [0086-missing-and-repeating-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0086-missing-and-repeating-number) |
 | [0088-merge-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0090-subsets-ii) |
+| [0091-number-of-inversions](https://github.com/VishalChoudhary/LeetCode/tree/master/0091-number-of-inversions) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/VishalChoudhary/LeetCode/tree/master/0118-pascals-triangle) |
@@ -45,8 +47,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/VishalChoudhary/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
-| [0086-missing-and-repeating-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0086-missing-and-repeating-number) |
-| [0091-number-of-inversions](https://github.com/VishalChoudhary/LeetCode/tree/master/0091-number-of-inversions) |
 ## Hash Table
 |  |
 | ------- |
