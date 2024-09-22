@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0006-kth-element-of-two-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0006-kth-element-of-two-sorted-array) |
+| [00377-aggresive-cows](https://github.com/VishalChoudhary/LeetCode/tree/master/0377-aggresive-cows) |
 ## Binary Indexed Tree
 |  |
 | ------- |
