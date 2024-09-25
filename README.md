@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0941-sort-array-by-parity](https://github.com/VishalChoudhary/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/VishalChoudhary/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Hash Table
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VishalChoudhary/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/VishalChoudhary/LeetCode/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/VishalChoudhary/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/VishalChoudhary/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/VishalChoudhary/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/VishalChoudhary/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
