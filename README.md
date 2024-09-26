@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VishalChoudhary/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/VishalChoudhary/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/VishalChoudhary/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/VishalChoudhary/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/VishalChoudhary/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/VishalChoudhary/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/VishalChoudhary/LeetCode/tree/master/0056-merge-intervals) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/VishalChoudhary/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/VishalChoudhary/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VishalChoudhary/LeetCode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/VishalChoudhary/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/VishalChoudhary/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VishalChoudhary/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VishalChoudhary/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/VishalChoudhary/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/VishalChoudhary/LeetCode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/VishalChoudhary/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/VishalChoudhary/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/VishalChoudhary/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/VishalChoudhary/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/VishalChoudhary/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/VishalChoudhary/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0088-merge-sorted-array) |
