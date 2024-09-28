@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/VishalChoudhary/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/VishalChoudhary/LeetCode/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/VishalChoudhary/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
