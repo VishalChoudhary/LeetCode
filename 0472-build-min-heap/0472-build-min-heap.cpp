@@ -1,4 +1,19 @@
-
+#include <bits/stdc++.h> 
+void heapify(vector<int> &arr,int n,int i){
+    int left=2*i+1;
+    int right=2*i+2;
+    int smallest=i;
+    if(left<n && arr[smallest]>arr[left]){
+        smallest=left;
+    }
+    if(right<n && arr[smallest]>arr[right]){
+        smallest=right;
+    }
+    if(smallest!=i){
+        swap(arr[smallest],arr[i]);
+        heapify(arr, n, smallest);
+    }
+}
 vector<int> buildMinHeap(vector<int> &arr)
 {
     // Write your code here
