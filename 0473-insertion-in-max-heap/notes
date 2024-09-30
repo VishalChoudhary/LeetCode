@@ -1,0 +1,87 @@
+Insertion in a heap involves adding a new element while maintaining the heap property. Heaps are generally represented as binary trees, and they can be of two types:
+
+Max-Heap: The value of each parent node is greater than or equal to the values of its children.
+Min-Heap: The value of each parent node is less than or equal to the values of its children.
+Steps for Inserting into a Heap:
+Add the new element at the end of the heap (the next available position in the binary tree, typically after the last element in an array representation).
+
+Heapify Up (Bubble Up):
+
+Compare the newly inserted element with its parent.
+If it's a max-heap and the child is greater than the parent, or if it's a min-heap and the child is smaller than the parent, swap them.
+Continue the process up the tree until the heap property is restored (i.e., no more violations exist).
+Example (Max-Heap):
+Suppose we have the following heap:
+
+markdown
+Copy code
+          50
+         /  \
+       30    40
+      / \    /
+    20  10  15
+Now, let's insert 45 into the heap.
+
+Insert 45 at the next available position:
+markdown
+Copy code
+          50
+         /  \
+       30    40
+      / \    / \
+    20  10  15  45
+Heapify up: Compare 45 with its parent 40. Since 45 > 40, swap them:
+markdown
+Copy code
+          50
+         /  \
+       30    45
+      / \    / \
+    20  10  15  40
+Now compare 45 with its new parent 50. No more swaps are necessary since 45 < 50. The insertion is complete, and the heap property is restored.
+Time Complexity:
+Time Complexity: O(log n) where n is the number of elements in the heap. This is because the height of a complete binary tree (heap) is logarithmic, and at most, you'll need to move up that many levels during heapification.
+
+Insertion in a heap involves adding a new element while maintaining the heap property. Heaps are generally represented as binary trees, and they can be of two types:
+
+Max-Heap: The value of each parent node is greater than or equal to the values of its children.
+Min-Heap: The value of each parent node is less than or equal to the values of its children.
+Steps for Inserting into a Heap:
+Add the new element at the end of the heap (the next available position in the binary tree, typically after the last element in an array representation).
+
+Heapify Up (Bubble Up):
+
+Compare the newly inserted element with its parent.
+If it's a max-heap and the child is greater than the parent, or if it's a min-heap and the child is smaller than the parent, swap them.
+Continue the process up the tree until the heap property is restored (i.e., no more violations exist).
+Example (Max-Heap):
+Suppose we have the following heap:
+
+markdown
+Copy code
+          50
+         /  \
+       30    40
+      / \    /
+    20  10  15
+Now, let's insert 45 into the heap.
+
+Insert 45 at the next available position:
+markdown
+Copy code
+          50
+         /  \
+       30    40
+      / \    / \
+    20  10  15  45
+Heapify up: Compare 45 with its parent 40. Since 45 > 40, swap them:
+markdown
+Copy code
+          50
+         /  \
+       30    45
+      / \    / \
+    20  10  15  40
+Now compare 45 with its new parent 50. No more swaps are necessary since 45 < 50. The insertion is complete, and the heap property is restored.
+Time Complexity:
+Time Complexity: O(log n) where n is the number of elements in the heap. This is because the height of a complete binary tree (heap) is logarithmic, and at most, you'll need to move up that many levels during heapification.
