@@ -1,4 +1,20 @@
+#include<bits/stdc++.h>
+using namespace std;
 
+void heapify(vector<int> &heap,int index){
+    int left=2*index+1;
+    int right=2*index+2;
+    int smallest=index;
+    if(left<heap.size() && heap[left]<heap[smallest]){
+        smallest=left;
+    }
+    if(right<heap.size() && heap[right]<heap[smallest])
+    smallest=right;
+    if(smallest!=index){
+        swap(heap[smallest],heap[index]);
+        heapify(heap,smallest);
+    }
+}
 
 int removeMin(vector<int> &heap){
     if(heap.size()==0)
