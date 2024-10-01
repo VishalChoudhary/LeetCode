@@ -1,0 +1,24 @@
+Explanation:
+heapifyDown function:
+
+Starts from a given node (initially the root), compares it with its left and right children.
+If any child is larger than the current node, it swaps the largest child with the current node.
+This process continues until the current node is larger than both its children, ensuring that the max-heap property is restored.
+removeMax function:
+
+Removes the root element (which is the largest element) from the max-heap.
+Replaces it with the last element of the heap.
+Calls heapifyDown to restore the max-heap property by pushing the last element down if necessary.
+printHeap function: Prints the heap for visualization.
+
+Example:
+Before removal:
+
+mathematica
+Max-Heap before removal: 50 30 40 20 10 15 45
+After removing the largest element (50):
+
+mathematica
+Removed element: 50
+Max-Heap after removal: 45 30 40 20 10 15
+In this example, after removing 50, the last element 45 moves to the root, and then it is heapified down to maintain the max-heap property.
