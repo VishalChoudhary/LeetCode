@@ -1,42 +1,34 @@
 class Solution {
 
-    void merge(vector<int>& nums, int low, int mid, int high) {
-        vector<int> temp(high-low+1,0);
-        int ind=0;
-        int left = low;
-        int right = mid + 1;
-        while (left <= mid && right <= high) {
-            if (nums[left] <= nums[right]) {
-                temp[ind++]=nums[left++];
-            } else {
-                temp[ind++]=nums[right++];
-            }
-        }
-        while (left <= mid) {
-            temp[ind++]=nums[left++];
-        }
-        while (right <= high) {
-            temp[ind++]=nums[right++];
-        }
-        ind=0;
-        for (int i = low; i <= high; i++) {
-            nums[i] = temp[ind++];
-        }
+    void heapify(vector<int> &heap, int n,int index){
+    int left=2*index+1;
+    int right=2*index+2;
+    int largest=index;
+    if(left<n && heap[left]>heap[largest]){
+        largest=left;
     }
+    if(right<n && heap[right]>heap[largest])
+    largest=right;
+    if(largest!=index){
+        swap(heap[largest],heap[index]);
+        heapify(heap,n,largest);
+    }
+}
 
-    void mergeSort(vector<int>& nums, int low, int high) {
-        if (low < high) {
-            int mid = (low + high) / 2;
-            mergeSort(nums, low, mid);
-            mergeSort(nums, mid + 1, high);
-            merge(nums, low, mid, high);
-        }
+void heapSort(vector<int>& arr,int n) {
+    for(int i=n/2-1;i>=0;i--){
+        heapify(arr,n,i);
     }
+    for(int i=n-1;i>=0;i--){
+        swap(arr[0],arr[i]);
+        heapify(arr,i,0);
+    }
+}
 
 public:
     vector<int> sortArray(vector<int>& nums) {
         int n = nums.size();
-        mergeSort(nums, 0, n - 1);
+        heapSort(nums,n);
         return nums;
     }
 };
