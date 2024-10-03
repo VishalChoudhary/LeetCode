@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VishalChoudhary/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-merge-k-sorted-arrays](https://github.com/VishalChoudhary/LeetCode/tree/master/0024-merge-k-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-min-heap](https://github.com/VishalChoudhary/LeetCode/tree/master/0216-min-heap) |
 | [0295-find-median-from-data-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0295-find-median-from-data-stream) |
