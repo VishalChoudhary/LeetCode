@@ -14,11 +14,11 @@ public:
         }
         //Balance the heap if more than 2 elements than the other
         //if left has 2 more elements than right
-        if(left.size()>right.size()+1){
+        if(left.size()>right.size()){
             right.push(left.top());
             left.pop();
         }
-        if(right.size()>left.size()+1){
+        if(right.size()>left.size()){
             left.push(right.top());
             right.pop();
         }
