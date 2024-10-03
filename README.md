@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VishalChoudhary/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/VishalChoudhary/LeetCode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/VishalChoudhary/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-min-heap](https://github.com/VishalChoudhary/LeetCode/tree/master/0216-min-heap) |
+| [0295-find-median-from-data-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0471-build-max-heap](https://github.com/VishalChoudhary/LeetCode/tree/master/0471-build-max-heap) |
 | [0472-build-min-heap](https://github.com/VishalChoudhary/LeetCode/tree/master/0472-build-min-heap) |
 | [0473-insertion-in-max-heap](https://github.com/VishalChoudhary/LeetCode/tree/master/0473-insertion-in-max-heap) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/VishalChoudhary/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/VishalChoudhary/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/VishalChoudhary/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/VishalChoudhary/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/VishalChoudhary/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VishalChoudhary/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VishalChoudhary/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -449,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/VishalChoudhary/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/VishalChoudhary/LeetCode/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/VishalChoudhary/LeetCode/tree/master/0595-big-countries) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
