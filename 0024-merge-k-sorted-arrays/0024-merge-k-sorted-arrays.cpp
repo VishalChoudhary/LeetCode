@@ -9,6 +9,24 @@ vector<int> mergeKSortedArrays(vector<vector<int>>&kArrays, int k)
         }
     }
 
-    
+    vector<int> mergedResult;
+
+    // Process the heap until all elements are merged
+    while (!pq.empty()) {
+        auto it = pq.top();
+        pq.pop();
+        
+        int value = it.first;
+        int arrIdx = it.second.first;  // Index of the array
+        int elemIdx = it.second.second; // Index of the element in the array
+
+        // Add the smallest element to the result
+        mergedResult.push_back(value);
+
+        if (elemIdx + 1 < kArrays[arrIdx].size()) {
+            pq.push({kArrays[arrIdx][elemIdx + 1], {arrIdx, elemIdx + 1}});
+        }
+    }
+
     return mergedResult; 
 }
