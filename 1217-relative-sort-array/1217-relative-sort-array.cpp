@@ -1,22 +1,25 @@
 class Solution {
 public:
-    vector<int> relativeSortArray(vector<int>& a1, vector<int>& a2) {
-        map<int,int> mp;
+    vector<int> relativeSortArray(vector<int>& arr1, vector<int>& arr2) {
         vector<int> ans;
-        for(int i=0;i<a1.size();i++){
-            mp[a1[i]]++;
+        map<int,int> mpp;
+        for(auto x:arr1){
+            mpp[x]++;
         }
-        for(int i=0;i<a2.size();i++){
-            while(mp[a2[i]]>0){
-                ans.push_back(a2[i]);
-                mp[a2[i]]--;
-            }   
-        }
-        for(auto it=mp.begin();it!=mp.end();it++){
-            while(it->second>0){
-                ans.push_back(it->first);
-                it->second--;
+        for(auto it:arr2){
+            if(mpp.find(it)!=mpp.end()){
+                auto x=mpp.find(it);
+                int count=x->second;
+                vector<int> v(count,it);
+                ans.insert(ans.end(),v.begin(),v.end());
+                mpp.erase(it);
             }
+        }
+        for(auto x:mpp){
+            int ele=x.first;
+            int count=x.second;
+            vector<int> v(count,ele);
+            ans.insert(ans.end(),v.begin(),v.end());
         }
         return ans;
     }
