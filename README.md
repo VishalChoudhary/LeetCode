@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VishalChoudhary/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/VishalChoudhary/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/VishalChoudhary/LeetCode/tree/master/0322-coin-change) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/VishalChoudhary/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/VishalChoudhary/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
