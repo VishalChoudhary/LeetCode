@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VishalChoudhary/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VishalChoudhary/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalChoudhary/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0352-first-repeating-element](https://github.com/VishalChoudhary/LeetCode/tree/master/0352-first-repeating-element) |
 | [0496-next-greater-element-i](https://github.com/VishalChoudhary/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
