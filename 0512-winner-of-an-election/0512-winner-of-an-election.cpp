@@ -8,4 +8,23 @@ class Solution{
             umap[arr[i]]++;
         }
         string name="";
-     
+        int max_vote=0;
+        for(auto it:umap){
+            string key=it.first;
+            int value=it.second;
+            if(value>max_vote){
+                name=key;
+                max_vote=value;
+            }
+            else if(value==max_vote){
+                if(key<name)
+                    name=key;
+            }
+        }
+        vector<string> ans;
+        ans.push_back(name);
+        string temp=to_string(max_vote);
+        ans.push_back(temp);
+        return ans;
+    }
+};
