@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VishalChoudhary/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/VishalChoudhary/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0807-custom-sort-string](https://github.com/VishalChoudhary/LeetCode/tree/master/0807-custom-sort-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/VishalChoudhary/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VishalChoudhary/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1231-circular-queue-implementation-using-array](https://github.com/VishalChoudhary/LeetCode/tree/master/1231-circular-queue-implementation-using-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/VishalChoudhary/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -495,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/VishalChoudhary/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
