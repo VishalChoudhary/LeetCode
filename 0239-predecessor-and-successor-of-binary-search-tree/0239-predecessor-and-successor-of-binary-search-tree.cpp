@@ -7,5 +7,21 @@ class Solution
         Node *curr=root;
         while(curr!=NULL){
             if(p>=curr->val)
-        
+                curr=curr->right;
+            else{
+                suc=curr;
+                curr=curr->left;
+            }
+        }
+        curr=root;
+        while(curr!=NULL){
+            if(p<=curr->val)
+                curr=curr->left;
+            else{
+                pre=curr;
+                curr=curr->right;
+            }
+        }
+        return;
+    }
 };
