@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0941-sort-array-by-parity](https://github.com/VishalChoudhary/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1217-relative-sort-array](https://github.com/VishalChoudhary/LeetCode/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VishalChoudhary/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/VishalChoudhary/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-queue-implementation-using-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0414-queue-implementation-using-array) |
 | [0496-next-greater-element-i](https://github.com/VishalChoudhary/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1231-circular-queue-implementation-using-array](https://github.com/VishalChoudhary/LeetCode/tree/master/1231-circular-queue-implementation-using-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VishalChoudhary/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-next-smaller-element](https://github.com/VishalChoudhary/LeetCode/tree/master/0219-next-smaller-element) |
 | [0496-next-greater-element-i](https://github.com/VishalChoudhary/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/VishalChoudhary/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1105-top-view-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1105-top-view-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/VishalChoudhary/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Design
@@ -516,4 +521,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
