@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-insertion-in-min-heap](https://github.com/VishalChoudhary/LeetCode/tree/master/0474-insertion-in-min-heap) |
 | [0475-deletion-in-max-heap](https://github.com/VishalChoudhary/LeetCode/tree/master/0475-deletion-in-max-heap) |
 | [0476-deletion-in-min-heap](https://github.com/VishalChoudhary/LeetCode/tree/master/0476-deletion-in-min-heap) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VishalChoudhary/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0783-search-in-a-binary-search-tree) 
+| [0789-kth-largest-element-in-a-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0793-floor-in-a-binary-search-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0793-floor-in-a-binary-search-tree) |
 | [0794-ceil-in-a-binary-search-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0794-ceil-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VishalChoudhary/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1105-top-view-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1105-top-view-of-binary-tree) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/VishalChoudhary/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Simulation
 |  |
 | ------- |
@@ -560,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VishalChoudhary/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Iterator
