@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishalChoudhary/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2056-count-distinct-elements-in-every-window-of-size-k](https://github.com/VishalChoudhary/LeetCode/tree/master/2056-count-distinct-elements-in-every-window-of-size-k) |
 ## Math
 |  |
 | ------- |
