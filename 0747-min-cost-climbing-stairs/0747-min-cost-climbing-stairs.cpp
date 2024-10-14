@@ -1,3 +1,4 @@
+//memoization
 class Solution {
 public:
     int f(int n, vector<int>& cost, vector<int>& dp) {
