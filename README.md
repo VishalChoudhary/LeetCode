@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/VishalChoudhary/LeetCode/tree/master/0322-coin-change) |
 | [0671-frog-jump-or-geek-jump](https://github.com/VishalChoudhary/LeetCode/tree/master/0671-frog-jump-or-geek-jump) |
 | [0672-frog-jump-k-distance-or-minimal-cost](https://github.com/VishalChoudhary/LeetCode/tree/master/0672-frog-jump-k-distance-or-minimal-cost) |
+| [0721-ninja-training](https://github.com/VishalChoudhary/LeetCode/tree/master/0721-ninja-training) |
 | [0747-min-cost-climbing-stairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/VishalChoudhary/LeetCode/tree/master/1013-fibonacci-number) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
