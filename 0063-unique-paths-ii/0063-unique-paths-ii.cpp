@@ -1,10 +1,11 @@
 class Solution {
 public:
+    //memoization
     int f(int i,int j,vector<vector<int>> &dp,vector<vector<int>>& obstacleGrid){
-        // Base case: If we reach the top-left corner (0, 0), there is one way.
         // If the starting point has an obstacle, no paths are possible
         if (obstacleGrid[0][0] == 1) 
             return 0;
+        // Base case: If we reach the top-left corner (0, 0), there is one way.
         if(i==0 && j==0)
             return 1;
         // If we go out of bounds
