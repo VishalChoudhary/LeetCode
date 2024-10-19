@@ -3,7 +3,7 @@ class Solution {
     int f(int i, int j, vector<vector<int>>& grid, vector<vector<int>>& dp) {
         // Base case: If we're at the top-left corner, return its value
         if (i == 0 && j == 0) {
-            return grid[i][0];
+            return grid[0][0];
         }
         // If out of bounds, return a large number (equivalent to infinity)
         if (i < 0 || j < 0) {
