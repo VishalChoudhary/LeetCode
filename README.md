@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/VishalChoudhary/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/VishalChoudhary/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalChoudhary/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/VishalChoudhary/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/VishalChoudhary/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0493-reverse-pairs) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/VishalChoudhary/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/VishalChoudhary/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0671-frog-jump-or-geek-jump](https://github.com/VishalChoudhary/LeetCode/tree/master/0671-frog-jump-or-geek-jump) |
 | [0672-frog-jump-k-distance-or-minimal-cost](https://github.com/VishalChoudhary/LeetCode/tree/master/0672-frog-jump-k-distance-or-minimal-cost) |
 | [0721-ninja-training](https://github.com/VishalChoudhary/LeetCode/tree/master/0721-ninja-training) |
