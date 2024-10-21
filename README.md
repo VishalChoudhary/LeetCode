@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0968-maximum-falling-path](https://github.com/VishalChoudhary/LeetCode/tree/master/0968-maximum-falling-path) |
 | [0969-chocolate-pickup](https://github.com/VishalChoudhary/LeetCode/tree/master/0969-chocolate-pickup) |
+| [0970-subset-sum-equal-to-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0970-subset-sum-equal-to-k) |
 | [1013-fibonacci-number](https://github.com/VishalChoudhary/LeetCode/tree/master/1013-fibonacci-number) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Stack
