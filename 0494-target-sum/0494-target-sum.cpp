@@ -1,29 +1,31 @@
 class Solution {
 public:
-    //  space optimization
-    int findTargetSumWays(vector<int>& nums, int target) {
-        int n=nums.size();
-        int totalSum=0;
-        for(int i=0;i<n;i++){
-            totalSum+=nums[i];
-        }
-        if(totalSum-target < 0 || (totalSum-target)%2!=0) return 0;
-        int subsetSum = (totalSum-target)/2;
-        vector<int> prev(subsetSum+1,0), curr(subsetSum+1,0);
-        prev[0]=1;
-        for(int sum=0;sum<=subsetSum;sum++){
-            if(nums[0]==0 && sum==0) prev[sum]=2;
-            else if(nums[0]==sum) prev[sum]=1;
+    int findWays(vector<int>& arr, int k)
+    {
+        int n=arr.size();
+        vector<vector<int>> dp(n,vector<int>(k+1,0));
+        dp[0][0]=1;
+        for(int sum=0;sum<=k;sum++){
+            if(arr[0]==0 && sum==0) 
+                dp[0][sum]=2;
+            else if(arr[0]==sum)
+                dp[0][sum]=1;
         }
         for(int ind=1;ind<n;ind++){
-            for(int sum=0;sum<=subsetSum;sum++){
-                int notPick=prev[sum];
+            for(int sum=0;sum<=k;sum++){
+                int notPick=dp[ind-1][sum];
                 int pick=0;
-                if(nums[ind]<=sum) pick=prev[sum-nums[ind]];
-                curr[sum]=pick+notPick;
+                if(arr[ind]<=sum) pick=dp[ind-1][sum-arr[ind]];
+                dp[ind][sum]=(pick+notPick);
             }
-            prev=curr;
         }
-        return prev[(totalSum - target)/2];
+        return dp[n-1][k];
+    }
+    int findTargetSumWays(vector<int>& nums, int target) {
+        int totalSum=0;
+        for(auto &it:nums) totalSum+=it;
+        if(totalSum-target<0 || (totalSum-target)%2) return false;
+        int subset=(totalSum-target)/2;
+        return  findWays(nums,subset);
     }
 };
