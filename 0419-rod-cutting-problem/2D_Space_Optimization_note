@@ -1,0 +1,12 @@
+Key Concepts:
+prev: This array stores the results of the previous row in the DP table, which corresponds to the computations for the previous ind 
+(the previous rod length option).
+curr: This array is used to compute the values for the current row in the DP table, corresponding to the current ind.
+Why use curr?:
+The take case involves cutting the rod into smaller lengths (specifically, of size rodLength = ind + 1).
+When you decide to "take" a piece of rod of length rodLength, the problem size reduces, and you then consider the remaining portion of 
+the rod (N - rodLength).
+curr[N - rodLength] means that for the current rod length (ind), you are considering the optimal solution for the remaining length 
+(N - rodLength), based on the choices you are making in this current iteration (i.e., the current value of ind).
+Using prev here would be incorrect because you would be using the result from the previous rod length (ind - 1), 
+which is not what you want. You want to use the current rod length to calculate the optimal solution for the remaining length.
