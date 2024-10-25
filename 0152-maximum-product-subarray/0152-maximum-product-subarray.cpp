@@ -1,24 +1,18 @@
-//Kadane's
 class Solution {
 public:
+    //O(n) soln dp
     int maxProduct(vector<int>& nums) {
-        int maxP=INT_MIN;
-        int currM=1;
+        int prefix=1;
+        int suffix=1;
         int n=nums.size();
+        int ans=INT_MIN;
         for(int i=0;i<n;i++){
-            currM*=nums[i];
-            maxP=max(currM,maxP);
-            if(currM==0)   
-                currM=1;
+            if(prefix==0) prefix=1;
+            if(suffix==0) suffix=1;
+            prefix*=nums[i];
+            suffix*=nums[n-i-1];
+            ans=max(ans,max(prefix,suffix));
         }
-        currM=1;
-        for(int i=n-1;i>=0;i--)
-        {
-            currM*=nums[i];
-            maxP=max(currM,maxP);
-            if(currM==0)
-                currM=1;
-        }
-        return maxP;
+        return ans;
     }
 };
