@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/VishalChoudhary/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0807-custom-sort-string](https://github.com/VishalChoudhary/LeetCode/tree/master/0807-custom-sort-string) |
+| [1250-longest-common-subsequence](https://github.com/VishalChoudhary/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VishalChoudhary/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-chocolate-pickup](https://github.com/VishalChoudhary/LeetCode/tree/master/0969-chocolate-pickup) |
 | [0970-subset-sum-equal-to-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0970-subset-sum-equal-to-k) |
 | [1013-fibonacci-number](https://github.com/VishalChoudhary/LeetCode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/VishalChoudhary/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
