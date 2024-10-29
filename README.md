@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VishalChoudhary/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/VishalChoudhary/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0516-longest-palindromic-subsequence](https://github.com/VishalChoudhary/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0807-custom-sort-string](https://github.com/VishalChoudhary/LeetCode/tree/master/0807-custom-sort-string) |
 | [1250-longest-common-subsequence](https://github.com/VishalChoudhary/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VishalChoudhary/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-count-subsets-with-sum-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0417-count-subsets-with-sum-k) |
 | [0494-target-sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/VishalChoudhary/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0518-coin-change-ii) |
 | [0671-frog-jump-or-geek-jump](https://github.com/VishalChoudhary/LeetCode/tree/master/0671-frog-jump-or-geek-jump) |
 | [0672-frog-jump-k-distance-or-minimal-cost](https://github.com/VishalChoudhary/LeetCode/tree/master/0672-frog-jump-k-distance-or-minimal-cost) |
