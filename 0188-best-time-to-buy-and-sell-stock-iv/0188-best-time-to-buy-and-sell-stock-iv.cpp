@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxProfit(int k, vector<int>& prices) {
-       int n=prices.size();
+        int n=prices.size();
         vector<vector<vector<int>>> dp(n+1,vector<vector<int>> (2,vector<int>(k+1,0)));
         //no need to include base case as it outputs 0 and in dp we declared default val as 0
         for(int ind=n-1;ind>=0;ind--){
@@ -17,6 +17,6 @@ public:
                 }  
             }
         }
-        return dp[0][1][k]; 
+        return dp[0][1][k];
     }
 };
