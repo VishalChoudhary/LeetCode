@@ -1,25 +1,24 @@
 class Solution {
 public:
-    //space optimization
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        vector<vector<int>> ahead(2,vector<int>(3,0));
-        vector<vector<int>> curr(2,vector<int>(3,0));
+        vector<vector<vector<int>>> dp(n+1,vector<vector<int>> (2,vector<int>(3,0)));
         //no need to include base case as it outputs 0 and in dp we declared default val as 0
         for(int ind=n-1;ind>=0;ind--){
             for(int buy=0; buy<=1; buy++){
                 //reason for cap from 1 bcz cap=0 is base case which is already covered
                 for(int cap=1;cap<=2;cap++){ 
+                    int profit=0;
                     if(buy){
-                        curr[buy][cap]=max(-prices[ind]+ahead[0][cap],0+ahead[1][cap]);
+                        profit=max(-prices[ind]+dp[ind+1][0][cap],0+dp[ind+1][1][cap]);
                     }
                     else{
-                        curr[buy][cap]=max(prices[ind]+ahead[1][cap-1],0+ahead[0][cap]);
+                        profit=max(prices[ind]+dp[ind+1][1][cap-1],0+dp[ind+1][0][cap]);
                     }   
+                    dp[ind][buy][cap]=profit;
                 }  
             }
-            ahead=curr;
         }
-        return ahead[1][2];
+        return dp[0][1][2];
     }
 };
