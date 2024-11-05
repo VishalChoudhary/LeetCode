@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VishalChoudhary/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/VishalChoudhary/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0941-sort-array-by-parity](https://github.com/VishalChoudhary/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/VishalChoudhary/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0671-frog-jump-or-geek-jump](https://github.com/VishalChoudhary/LeetCode/tree/master/0671-frog-jump-or-geek-jump) |
 | [0672-frog-jump-k-distance-or-minimal-cost](https://github.com/VishalChoudhary/LeetCode/tree/master/0672-frog-jump-k-distance-or-minimal-cost) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VishalChoudhary/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-ninja-training](https://github.com/VishalChoudhary/LeetCode/tree/master/0721-ninja-training) |
 | [0747-min-cost-climbing-stairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-n-meeting-in-one-room](https://github.com/VishalChoudhary/LeetCode/tree/master/0154-n-meeting-in-one-room) |
 | [0343-minimum-number-of-platforms](https://github.com/VishalChoudhary/LeetCode/tree/master/0343-minimum-number-of-platforms) |
 | [0455-assign-cookies](https://github.com/VishalChoudhary/LeetCode/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VishalChoudhary/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Breadth-First Search
 |  |
 | ------- |
