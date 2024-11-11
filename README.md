@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1129-longest-string-chain](https://github.com/VishalChoudhary/LeetCode/tree/master/1129-longest-string-chain) |
 | [1217-relative-sort-array](https://github.com/VishalChoudhary/LeetCode/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VishalChoudhary/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/VishalChoudhary/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VishalChoudhary/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0807-custom-sort-string](https://github.com/VishalChoudhary/LeetCode/tree/master/0807-custom-sort-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/VishalChoudhary/LeetCode/tree/master/1129-longest-string-chain) |
 | [1217-relative-sort-array](https://github.com/VishalChoudhary/LeetCode/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VishalChoudhary/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/VishalChoudhary/LeetCode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/VishalChoudhary/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/VishalChoudhary/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0807-custom-sort-string](https://github.com/VishalChoudhary/LeetCode/tree/master/0807-custom-sort-string) |
+| [1129-longest-string-chain](https://github.com/VishalChoudhary/LeetCode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/VishalChoudhary/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VishalChoudhary/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VishalChoudhary/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/VishalChoudhary/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/VishalChoudhary/LeetCode/tree/master/1129-longest-string-chain) |
 | [1217-relative-sort-array](https://github.com/VishalChoudhary/LeetCode/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VishalChoudhary/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VishalChoudhary/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/VishalChoudhary/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/VishalChoudhary/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1129-longest-string-chain](https://github.com/VishalChoudhary/LeetCode/tree/master/1129-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -397,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-chocolate-pickup](https://github.com/VishalChoudhary/LeetCode/tree/master/0969-chocolate-pickup) |
 | [0970-subset-sum-equal-to-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0970-subset-sum-equal-to-k) |
 | [1013-fibonacci-number](https://github.com/VishalChoudhary/LeetCode/tree/master/1013-fibonacci-number) |
+| [1129-longest-string-chain](https://github.com/VishalChoudhary/LeetCode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/VishalChoudhary/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VishalChoudhary/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
