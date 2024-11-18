@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/VishalChoudhary/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/VishalChoudhary/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/VishalChoudhary/LeetCode/tree/master/1129-longest-string-chain) |
 | [1217-relative-sort-array](https://github.com/VishalChoudhary/LeetCode/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VishalChoudhary/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-chocolate-pickup](https://github.com/VishalChoudhary/LeetCode/tree/master/0969-chocolate-pickup) |
 | [0970-subset-sum-equal-to-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0970-subset-sum-equal-to-k) |
 | [1013-fibonacci-number](https://github.com/VishalChoudhary/LeetCode/tree/master/1013-fibonacci-number) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/VishalChoudhary/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/VishalChoudhary/LeetCode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/VishalChoudhary/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VishalChoudhary/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
