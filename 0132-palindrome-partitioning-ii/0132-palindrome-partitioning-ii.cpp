@@ -9,18 +9,20 @@ public:
         }
         return true;
     }
-    int f(int i,int n,string &str,vector<int> &dp){
-        if(i==n) return 0;
-        if(dp[i]!=-1)
+    int f(int i, int n, string &str, vector<int> &dp) {
+        if (i == n) return 0; // Base case: no cuts needed
+        
+        if (dp[i] != -1) // Return cached result
             return dp[i];
-        int minCost=1e9;
-        for(int j=i;j<n;j++){
-            if(isPalindrome(i,j,str)){
-                int cost=1+f(j+1,n,str,dp);
-                minCost=min(cost,minCost);
+        
+        int minCost = 1e9;
+        for (int j = i; j < n; j++) {
+            if (isPalindrome(i, j, str)) {
+                int cost = 1 + f(j + 1, n, str, dp);
+                minCost = min(cost, minCost);
             }
         }
-        return dp[i]=minCost;
+        return dp[i] = minCost;
     }
     int minCut(string s) {
         int n=s.size();
