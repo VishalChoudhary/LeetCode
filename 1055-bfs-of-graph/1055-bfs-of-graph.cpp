@@ -17,9 +17,9 @@ class Solution {
             
             // Traverse all neighbors of the current node
             for (auto neighbor : adj[node]) {
-                if (!vis[neighbor]) {
-                    vis[neighbor] = 1;
-                    q.push(neighbor);
+                if(!vis[it]){
+                vis[it]=1;
+                q.push(it);
                 }
             }
         }
