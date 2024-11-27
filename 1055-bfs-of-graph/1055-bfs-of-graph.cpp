@@ -16,7 +16,7 @@ class Solution {
             bfs.push_back(node);
             
             // Traverse all neighbors of the current node
-            for (auto neighbor : adj[node]) {
+            for (auto it : adj[node]) {
                 if(!vis[it]){
                 vis[it]=1;
                 q.push(it);
