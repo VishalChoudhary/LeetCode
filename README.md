@@ -672,8 +672,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/VishalChoudhary/LeetCode/tree/master/0207-course-schedule) |
+| [1053-graph-and-vertices](https://github.com/VishalChoudhary/LeetCode/tree/master/1053-graph-and-vertices) |
+| [1054-print-adjacency-list](https://github.com/VishalChoudhary/LeetCode/tree/master/1054-print-adjacency-list) |
+| [1055-bfs-of-graph](https://github.com/VishalChoudhary/LeetCode/tree/master/1055-bfs-of-graph) |
+| [1056-dfs-of-graph](https://github.com/VishalChoudhary/LeetCode/tree/master/1056-dfs-of-graph) |
+| [1057-undirected-graph-cycle-detection-using-bfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1057-undirected-graph-cycle-detection-using-bfs) |
+| [1058-undirected-graph-cycle-detection-using-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1058-undirected-graph-cycle-detection-using-dfs) |
+| [1059-directed-graph-cycle-detection-using-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1059-directed-graph-cycle-detection-using-dfs) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/VishalChoudhary/LeetCode/tree/master/0207-course-schedule) |
+| [1057-undirected-graph-cycle-detection-using-bfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1057-undirected-graph-cycle-detection-using-bfs) |
+| [1058-undirected-graph-cycle-detection-using-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1058-undirected-graph-cycle-detection-using-dfs) |
+| [1059-directed-graph-cycle-detection-using-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1059-directed-graph-cycle-detection-using-dfs) |
 <!---LeetCode Topics End-->
