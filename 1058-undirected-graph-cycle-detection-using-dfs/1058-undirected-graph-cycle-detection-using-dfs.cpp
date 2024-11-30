@@ -5,8 +5,10 @@ class Solution {
         vis[node]=1;
         for(auto it:adj[node]){
             if(!vis[it]){
+                // Recursively call dfsDetect for the adjacent node
                 if(dfsDetect(it,node,adj,vis)==true)
-                    return true;
+                    // If a cycle is detected, propagate 'true' up the recursion stack
+                    return true;  
             }
             else if(parent != it)
                 return true;
