@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1057-undirected-graph-cycle-detection-using-bfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1057-undirected-graph-cycle-detection-using-bfs) |
 | [1058-undirected-graph-cycle-detection-using-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1058-undirected-graph-cycle-detection-using-dfs) |
 | [1059-directed-graph-cycle-detection-using-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1059-directed-graph-cycle-detection-using-dfs) |
+| [1060-topological-sort-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1060-topological-sort-dfs) |
 ## Topological Sort
 |  |
 | ------- |
