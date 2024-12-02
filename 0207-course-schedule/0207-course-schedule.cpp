@@ -17,18 +17,18 @@ public:
             if(inDegree[i]==0)
                 q.push(i);
         }
-        int cnt=0;
+        vector<int> ans;
         while(!q.empty()){
             int node=q.front();
             q.pop();
-            cnt++;
+            ans.push_back(node);
             for(auto it:adj[node]){
                 inDegree[it]--;
                 if(inDegree[it]==0)
                     q.push(it);
             }
         }
-        if(cnt==V) 
+        if(ans.size()==V) 
             return true;
         return false;
     }
