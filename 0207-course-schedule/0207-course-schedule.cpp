@@ -1,31 +1,35 @@
 class Solution {
 public:
-    bool checkCycleDFS(int node,vector<vector<int>> &adj,vector<int> &vis,vector<int> &dfsVis){
-        vis[node]=1;
-        dfsVis[node]=1;
-        for(auto it : adj[node]){
-            if(!vis[it]){
-                if(checkCycleDFS(it,adj,vis,dfsVis)==true)
-                    return true;
-            }
-            else if(dfsVis[it]==1){
-                return true;
-            }
-        }
-        dfsVis[node]=0;
-        return false;
-    }
     bool canFinish(int V, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(V);
-        for (auto &pre : prerequisites) {
-            adj[pre[1]].push_back(pre[0]); // Directed edge: pre[1] -> pre[0]
+        // Build the adjacency list from prerequisites
+        for (auto it : prerequisites) {
+            adj[it[1]].push_back(it[0]); // Directed edge it[1] -> it[0]
         }
-        vector<int> vis(V,0);
-        vector<int> dfsVis(V,0);
+        vector<int> inDegree(V,0);
         for(int i=0;i<V;i++){
-            if(checkCycleDFS(i,adj,vis,dfsVis)==true)
-                return false;
+            for(auto it:adj[i]){
+                inDegree[it]++;
+            }
         }
-        return true;
+        queue<int> q;
+        for(int i=0;i<V;i++){
+            if(inDegree[i]==0)
+                q.push(i);
+        }
+        int cnt=0;
+        while(!q.empty()){
+            int node=q.front();
+            q.pop();
+            cnt++;
+            for(auto it:adj[node]){
+                inDegree[it]--;
+                if(inDegree[it]==0)
+                    q.push(it);
+            }
+        }
+        if(cnt==V) 
+            return true;
+        return false;
     }
 };
