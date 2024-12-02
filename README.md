@@ -681,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1059-directed-graph-cycle-detection-using-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1059-directed-graph-cycle-detection-using-dfs) |
 | [1060-topological-sort-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1060-topological-sort-dfs) |
 | [1061-topological-sort-ffs](https://github.com/VishalChoudhary/LeetCode/tree/master/1061-topological-sort-bfs) |
+| [1062-directed-graph-cycle-detection-using-bfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1062-directed-graph-cycle-detection-using-bfs) |
 ## Topological Sort
 |  |
 | ------- |
@@ -690,4 +691,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1059-directed-graph-cycle-detection-using-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1059-directed-graph-cycle-detection-using-dfs) |
 | [1060-topological-sort-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1060-topological-sort-dfs) |
 | [1061-topological-sort-ffs](https://github.com/VishalChoudhary/LeetCode/tree/master/1061-topological-sort-bfs) |
+| [1062-directed-graph-cycle-detection-using-bfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1062-directed-graph-cycle-detection-using-bfs) |
 <!---LeetCode Topics End-->
