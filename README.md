@@ -697,6 +697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1060-topological-sort-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1060-topological-sort-dfs) |
 | [1061-topological-sort-ffs](https://github.com/VishalChoudhary/LeetCode/tree/master/1061-topological-sort-bfs) |
 | [1062-directed-graph-cycle-detection-using-bfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1062-directed-graph-cycle-detection-using-bfs) |
+| [1063-shortest-path-in-directed-acyclic-graph](https://github.com/VishalChoudhary/LeetCode/tree/master/1063-shortest-path-in-directed-acyclic-graph) |
+| [1064-shortest-path-in-undirected-graph](https://github.com/VishalChoudhary/LeetCode/tree/master/1064-shortest-path-in-undirected-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -708,4 +710,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1060-topological-sort-dfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1060-topological-sort-dfs) |
 | [1061-topological-sort-ffs](https://github.com/VishalChoudhary/LeetCode/tree/master/1061-topological-sort-bfs) |
 | [1062-directed-graph-cycle-detection-using-bfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1062-directed-graph-cycle-detection-using-bfs) |
+| [1063-shortest-path-in-directed-acyclic-graph](https://github.com/VishalChoudhary/LeetCode/tree/master/1063-shortest-path-in-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
