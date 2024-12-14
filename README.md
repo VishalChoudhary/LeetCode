@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-directed-graph-cycle-detection-using-bfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1062-directed-graph-cycle-detection-using-bfs) |
 | [1063-shortest-path-in-directed-acyclic-graph](https://github.com/VishalChoudhary/LeetCode/tree/master/1063-shortest-path-in-directed-acyclic-graph) |
 | [1064-shortest-path-in-undirected-graph](https://github.com/VishalChoudhary/LeetCode/tree/master/1064-shortest-path-in-undirected-graph) |
+| [1065-dijkstra-algorithm](https://github.com/VishalChoudhary/LeetCode/tree/master/1065-dijkstra-algorithm) |
 ## Topological Sort
 |  |
 | ------- |
