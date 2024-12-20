@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-insertion-in-min-heap](https://github.com/VishalChoudhary/LeetCode/tree/master/0474-insertion-in-min-heap) |
 | [0475-deletion-in-max-heap](https://github.com/VishalChoudhary/LeetCode/tree/master/0475-deletion-in-max-heap) |
 | [0476-deletion-in-min-heap](https://github.com/VishalChoudhary/LeetCode/tree/master/0476-deletion-in-min-heap) |
+| [0744-network-delay-time](https://github.com/VishalChoudhary/LeetCode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VishalChoudhary/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VishalChoudhary/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/VishalChoudhary/LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/VishalChoudhary/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/VishalChoudhary/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/VishalChoudhary/LeetCode/tree/master/1036-rotting-oranges) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VishalChoudhary/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/VishalChoudhary/LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/VishalChoudhary/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/VishalChoudhary/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/VishalChoudhary/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/VishalChoudhary/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/VishalChoudhary/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1053-graph-and-vertices](https://github.com/VishalChoudhary/LeetCode/tree/master/1053-graph-and-vertices) |
 | [1054-print-adjacency-list](https://github.com/VishalChoudhary/LeetCode/tree/master/1054-print-adjacency-list) |
@@ -714,4 +718,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-topological-sort-ffs](https://github.com/VishalChoudhary/LeetCode/tree/master/1061-topological-sort-bfs) |
 | [1062-directed-graph-cycle-detection-using-bfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1062-directed-graph-cycle-detection-using-bfs) |
 | [1063-shortest-path-in-directed-acyclic-graph](https://github.com/VishalChoudhary/LeetCode/tree/master/1063-shortest-path-in-directed-acyclic-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/VishalChoudhary/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
