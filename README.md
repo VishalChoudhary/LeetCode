@@ -706,6 +706,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-shortest-path-in-directed-acyclic-graph](https://github.com/VishalChoudhary/LeetCode/tree/master/1063-shortest-path-in-directed-acyclic-graph) |
 | [1064-shortest-path-in-undirected-graph](https://github.com/VishalChoudhary/LeetCode/tree/master/1064-shortest-path-in-undirected-graph) |
 | [1065-dijkstra-algorithm](https://github.com/VishalChoudhary/LeetCode/tree/master/1065-dijkstra-algorithm) |
+| [1066-shortest-distance-in-a-binary-maze](https://github.com/VishalChoudhary/LeetCode/tree/master/1066-shortest-distance-in-a-binary-maze) |
+| [1067-bellman-ford](https://github.com/VishalChoudhary/LeetCode/tree/master/1067-bellman-ford) |
 ## Topological Sort
 |  |
 | ------- |
@@ -722,4 +724,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/VishalChoudhary/LeetCode/tree/master/0744-network-delay-time) |
+| [1062-directed-graph-cycle-detection-using-bfs](https://github.com/VishalChoudhary/LeetCode/tree/master/1062-directed-graph-cycle-detection-using-bfs) |
+| [1063-shortest-path-in-directed-acyclic-graph](https://github.com/VishalChoudhary/LeetCode/tree/master/1063-shortest-path-in-directed-acyclic-graph) |
+| [1064-shortest-path-in-undirected-graph](https://github.com/VishalChoudhary/LeetCode/tree/master/1064-shortest-path-in-undirected-graph) |
+| [1065-dijkstra-algorithm](https://github.com/VishalChoudhary/LeetCode/tree/master/1065-dijkstra-algorithm) |
+| [1066-shortest-distance-in-a-binary-maze](https://github.com/VishalChoudhary/LeetCode/tree/master/1066-shortest-distance-in-a-binary-maze) |
+| [1067-bellman-ford](https://github.com/VishalChoudhary/LeetCode/tree/master/1067-bellman-ford) |
 <!---LeetCode Topics End-->
