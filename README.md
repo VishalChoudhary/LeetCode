@@ -708,6 +708,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1065-dijkstra-algorithm](https://github.com/VishalChoudhary/LeetCode/tree/master/1065-dijkstra-algorithm) |
 | [1066-shortest-distance-in-a-binary-maze](https://github.com/VishalChoudhary/LeetCode/tree/master/1066-shortest-distance-in-a-binary-maze) |
 | [1067-bellman-ford](https://github.com/VishalChoudhary/LeetCode/tree/master/1067-bellman-ford) |
+| [1068-floyd-warshall](https://github.com/VishalChoudhary/LeetCode/tree/master/1068-floyd-warshall) |
+| [1069-prims-minimum-spanning-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1069-prims-minimum-spanning-tree) |
 ## Topological Sort
 |  |
 | ------- |
@@ -730,4 +732,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1065-dijkstra-algorithm](https://github.com/VishalChoudhary/LeetCode/tree/master/1065-dijkstra-algorithm) |
 | [1066-shortest-distance-in-a-binary-maze](https://github.com/VishalChoudhary/LeetCode/tree/master/1066-shortest-distance-in-a-binary-maze) |
 | [1067-bellman-ford](https://github.com/VishalChoudhary/LeetCode/tree/master/1067-bellman-ford) |
+| [1068-floyd-warshall](https://github.com/VishalChoudhary/LeetCode/tree/master/1068-floyd-warshall) |
+| [1069-prims-minimum-spanning-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1069-prims-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
