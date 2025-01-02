@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1067-bellman-ford](https://github.com/VishalChoudhary/LeetCode/tree/master/1067-bellman-ford) |
 | [1068-floyd-warshall](https://github.com/VishalChoudhary/LeetCode/tree/master/1068-floyd-warshall) |
 | [1069-prims-minimum-spanning-tree](https://github.com/VishalChoudhary/LeetCode/tree/master/1069-prims-minimum-spanning-tree) |
+| [1070-strongly-connected-kosaraju-algorithm](https://github.com/VishalChoudhary/LeetCode/tree/master/1070-strongly-connected-kosaraju-algorithm) |
 ## Topological Sort
 |  |
 | ------- |
