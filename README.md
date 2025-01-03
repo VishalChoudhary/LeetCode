@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/VishalChoudhary/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/VishalChoudhary/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/VishalChoudhary/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/VishalChoudhary/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/VishalChoudhary/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/VishalChoudhary/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/VishalChoudhary/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
