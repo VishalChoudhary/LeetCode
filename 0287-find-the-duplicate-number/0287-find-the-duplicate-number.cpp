@@ -1,17 +1,22 @@
 class Solution {
 public:
+    //using hashing
     int findDuplicate(vector<int>& nums) {
-        int slow=nums[0];
-        int fast=nums[0];
-        do{   
-            slow=nums[slow];
-            fast=nums[nums[fast]];
-        }while(slow != fast);
-        fast=nums[0];
-        while(slow != fast){
-            slow=nums[slow];
-            fast=nums[fast];
+        int n=nums.size();
+        if(n<1)
+        return -1;
+        if(n==1)
+        return nums[0];
+        unordered_map<int,int> mpp;
+        for(int i=0;i<n;i++){
+            mpp[nums[i]]++;
         }
-        return slow;
+        for(int i=0;i<n;i++){
+            auto it=mpp.find(nums[i]);
+            if(it->second>1){
+                return nums[i];
+            }
+        }
+        return 0;
     }
 };
