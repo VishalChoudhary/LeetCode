@@ -14,10 +14,10 @@ public:
                 int cnt=1;
                 int x=it;
                 while(st.find(x+1)!=st.end()){
-                    x=x+1;
-                    cnt=cnt+1;
+                    cnt+=1;
+                    x+=1;
                 }
-                longest=max(cnt,longest);
+                longest=max(longest,cnt);
             }
         }
         return longest;
