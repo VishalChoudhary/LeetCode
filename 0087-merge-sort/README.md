@@ -6,6 +6,8 @@ Example :<br><br>
 Merge Sort Algorithm -<br>
 Merge sort is a Divide and Conquer based Algorithm. It divides the input array into two-parts, until the size of the input array is not ‘1’. In the return part, it will merge two sorted arrays a return a whole merged sorted array.<br><br>
 
+![image](https://github.com/user-attachments/assets/50eec7d0-c49a-4df8-aa66-504a5d43f26e)
+
 The above illustrates shows how merge sort works.<br><br>
 
 Note :<br>
