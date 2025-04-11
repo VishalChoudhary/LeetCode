@@ -17,12 +17,12 @@ public:
             fast=fast->next;
         }
         if(fast==NULL)
-        return head->next;
+            return head->next;
         while(fast->next!=NULL){
             fast=fast->next;
             slow=slow->next;
         }
-        ListNode *delNode=slow->next;
+        ListNode* delNode=slow->next;
         slow->next=slow->next->next;
         delete delNode;
         return head;
