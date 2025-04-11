@@ -10,7 +10,7 @@ public:
             int x=xr^0;
             cnt+=mpp[x];
             mpp[xr]++;
-        }
+        } 
         return cnt;
     }
 };
