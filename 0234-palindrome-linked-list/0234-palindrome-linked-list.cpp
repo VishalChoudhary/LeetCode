@@ -1,4 +1,5 @@
 class Solution {
+public:
     ListNode *reverseLL(ListNode *head){
         ListNode *nextnode=head, *curr=head, *prev=NULL;
         while(nextnode!=NULL){
@@ -8,27 +9,29 @@ class Solution {
             curr=nextnode;
         }
         head=prev;
-        return prev;
+        return head;
     }
-public:
     bool isPalindrome(ListNode* head) {
-        if(head==NULL || head->next==NULL) return true;
-        ListNode *slow=head,*fast=head;
+        if(head==NULL || head->next==NULL)
+        return true;
+        ListNode *slow=head;
+        ListNode *fast=head;
         while(fast->next!=NULL && fast->next->next!=NULL){
             slow=slow->next;
             fast=fast->next->next;
         }
-        ListNode *newhead=reverseLL(slow->next);
-        ListNode *first=head,*second=newhead;
+        ListNode *newHead = reverseLL(slow->next);
+        ListNode *first=head;
+        ListNode *second=newHead;
         while(second!=NULL){
-            if(first->val!=second->val){
-                reverseLL(newhead);
+            if(first->val != second->val){
+                reverseLL(newHead);
                 return false;
             }
             first=first->next;
             second=second->next;
         }
-        reverseLL(newhead);
+        reverseLL(newHead);
         return true;
     }
 };
