@@ -1,21 +1,5 @@
-/*
-// Definition for a Node.
-class Node {
-public:
-    int val;
-    Node* next;
-    Node* random;
-    
-    Node(int _val) {
-        val = _val;
-        next = NULL;
-        random = NULL;
-    }
-};
-*/
-
 class Solution {
-    void insertCopyInBetween(Node *head){
+    void insertCopyBetweenNode(Node *head){
         Node *temp=head;
         while(temp!=NULL){
             Node *copyNode=new Node(temp->val);
@@ -24,7 +8,7 @@ class Solution {
             temp=temp->next->next;
         }
     }
-    void connetRandomPointers(Node *head){
+    void connectRandomPointer(Node *head){
         Node *temp=head;
         while(temp!=NULL){
             Node *copyNode=temp->next;
@@ -37,49 +21,22 @@ class Solution {
             temp=temp->next->next;
         }
     }
-    Node *getDeepCopiedList(Node *head){
-        Node *temp=head;
+    Node *getDeepCloneList(Node *head){
         Node *dummyNode=new Node(-1);
         Node *res=dummyNode;
+        Node *temp=head;
         while(temp!=NULL){
             res->next=temp->next;
-            res=res->next;
             temp->next=temp->next->next;
+            res=res->next;
             temp=temp->next;
         }
         return dummyNode->next;
     }
 public:
     Node* copyRandomList(Node* head) {
-        insertCopyInBetween(head);
-        connetRandomPointers(head);
-        return getDeepCopiedList(head);
+        insertCopyBetweenNode(head);
+        connectRandomPointer(head);
+        return getDeepCloneList(head);
     }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
