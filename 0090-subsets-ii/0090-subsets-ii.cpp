@@ -1,11 +1,12 @@
 class Solution {
 public:
-    void findSubSet(int ind,vector<int> &nums,vector<int> &ds,vector<vector<int>> &ans){
+    void subsets(int ind,vector<int> &ds,vector<int> &nums,vector<vector<int>> &ans){
         ans.push_back(ds);
         for(int i=ind;i<nums.size();i++){
-            if(i!=ind && nums[i]==nums[i-1]) continue;
+            if(i!=ind && nums[i]==nums[i-1])
+                continue;
             ds.push_back(nums[i]);
-            findSubSet(i+1,nums,ds,ans);
+            subsets(i+1,ds,nums,ans);
             ds.pop_back();
         }
     }
@@ -13,7 +14,7 @@ public:
         vector<vector<int>> ans;
         vector<int> ds;
         sort(nums.begin(),nums.end());
-        findSubSet(0,nums,ds,ans);
+        subsets(0,ds,nums,ans);
         return ans;
     }
 };
