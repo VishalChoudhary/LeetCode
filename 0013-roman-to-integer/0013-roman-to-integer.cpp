@@ -10,13 +10,14 @@ public:
             {'D',500},
             {'M',1000}
         };
-        int value=0;
+        int val=0;
         for(int i=0;i<s.size();i++){
-            if(myMap[s[i]]<myMap[s[i+1]])
-            value-=myMap[s[i]];
+            if(myMap[s[i]]<myMap[s[i+1]]){
+                val-=myMap[s[i]];
+            }
             else
-            value+=myMap[s[i]];
+                val+=myMap[s[i]];
         }
-        return value;
+        return val;
     }
 };
