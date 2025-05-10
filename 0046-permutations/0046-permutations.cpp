@@ -1,14 +1,14 @@
 class Solution {
 public:
-    void recursionPermute(int index,vector<int> &nums,vector<vector<int>> &ans){
-        if(index==nums.size()){
+    void recursionPermute(int ind, vector<int> &nums, vector<vector<int>> &ans){
+        if(ind==nums.size()){
             ans.push_back(nums);
             return;
         }
-        for(int i=index;i<nums.size();i++){
-            swap(nums[i],nums[index]);
-            recursionPermute(index+1,nums,ans);
-            swap(nums[i],nums[index]);
+        for(int i=ind;i<nums.size();i++){
+            swap(nums[ind],nums[i]);
+            recursionPermute(ind+1,nums,ans);
+            swap(nums[ind],nums[i]);
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
