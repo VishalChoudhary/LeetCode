@@ -11,8 +11,8 @@
  */
 class Solution {
 public:
-    vector<int>ans;
-    void inOrder(TreeNode *node){
+    vector<int> ans;
+    void inOrder(TreeNode * node){
         if(node==NULL)
         return;
         inOrder(node->left);
