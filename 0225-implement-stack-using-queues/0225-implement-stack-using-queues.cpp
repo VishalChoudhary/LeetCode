@@ -14,17 +14,16 @@ public:
     }
     
     int pop() {
-        int temp = q.front();
+        int x=q.front();
         q.pop();
-        return temp;
+        return x;
     }
     
     int top() {
-        int temp=q.front();
-        return temp;
+        return q.front();
     }
     
-    bool empty() {
+    bool empty() {  
         return q.empty();
     }
 };
