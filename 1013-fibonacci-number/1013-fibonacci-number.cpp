@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int fib(int n,vector<int> &dp){
+    int fib(int n, vector<int> &dp){
         if(n<=1)
         return n;
         if(dp[n]!=-1)
