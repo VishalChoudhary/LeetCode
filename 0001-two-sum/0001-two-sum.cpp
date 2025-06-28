@@ -6,10 +6,10 @@ public:
         for(int i=0;i<n;i++){
             int pair=target-nums[i];
             if(umap.find(pair)!=umap.end()){
-                return {umap[pair],i};
+                return{umap[pair],i};
             }
             umap[nums[i]]=i;
         }
-        return{};
+        return {};
     }
 };
