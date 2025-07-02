@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VishalChoudhary/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/VishalChoudhary/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/VishalChoudhary/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/VishalChoudhary/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/VishalChoudhary/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/VishalChoudhary/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/VishalChoudhary/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/VishalChoudhary/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/VishalChoudhary/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VishalChoudhary/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/VishalChoudhary/LeetCode/tree/master/0151-reverse-words-in-a-string) |
