@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VishalChoudhary/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VishalChoudhary/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/VishalChoudhary/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/VishalChoudhary/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/VishalChoudhary/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0941-sort-array-by-parity](https://github.com/VishalChoudhary/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0948-sort-an-array) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-queue-implementation-using-array](https://github.com/VishalChoudhary/LeetCode/tree/master/0414-queue-implementation-using-array) |
 | [0496-next-greater-element-i](https://github.com/VishalChoudhary/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/VishalChoudhary/LeetCode/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1231-circular-queue-implementation-using-array](https://github.com/VishalChoudhary/LeetCode/tree/master/1231-circular-queue-implementation-using-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VishalChoudhary/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-next-smaller-element](https://github.com/VishalChoudhary/LeetCode/tree/master/0219-next-smaller-element) |
 | [0496-next-greater-element-i](https://github.com/VishalChoudhary/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VishalChoudhary/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/VishalChoudhary/LeetCode/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VishalChoudhary/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
