@@ -3,13 +3,12 @@ public:
     int subarraySum(vector<int>& nums, int k) {
         map<int,int> mpp;
         mpp[0]=1;
-        int preSum=0;
-        int cnt=0;
-        int n=nums.size();
+        int preSum=0,cnt=0;
+        int n = nums.size();
         for(int i=0;i<n;i++){
             preSum+=nums[i];
-            int remove=preSum-k;
-            cnt+=mpp[remove];
+            int prefix = preSum-k;
+            cnt+=mpp[prefix];
             mpp[preSum]+=1;
         }
         return cnt;
