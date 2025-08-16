@@ -21,10 +21,10 @@ public:
             fast=fast->next->next;
         }
         ListNode *newHead = reverseLL(slow->next);
-        ListNode *first=head;
-        ListNode *second=newHead;
+        ListNode *first = head;
+        ListNode *second = newHead;
         while(second!=NULL){
-            if(first->val != second->val){
+            if(first->val!=second->val){
                 reverseLL(newHead);
                 return false;
             }
