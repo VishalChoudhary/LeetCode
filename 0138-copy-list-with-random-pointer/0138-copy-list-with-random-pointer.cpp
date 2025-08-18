@@ -1,30 +1,30 @@
 class Solution {
-    void insertCopyBetweenNode(Node *head){
+public:
+    void insertCopyBetween(Node* head){
         Node *temp=head;
         while(temp!=NULL){
-            Node *copyNode=new Node(temp->val);
+            Node *copyNode = new Node(temp->val);
             copyNode->next=temp->next;
             temp->next=copyNode;
             temp=temp->next->next;
         }
     }
-    void connectRandomPointer(Node *head){
+    void connectRandomPointers(Node* head){
         Node *temp=head;
         while(temp!=NULL){
-            Node *copyNode=temp->next;
+            Node *copyNode = temp->next;
             if(temp->random){
                 copyNode->random=temp->random->next;
-            }
-            else{
+            }else{
                 copyNode->random=NULL;
             }
             temp=temp->next->next;
         }
     }
-    Node *getDeepCloneList(Node *head){
-        Node *dummyNode=new Node(-1);
-        Node *res=dummyNode;
-        Node *temp=head;
+    Node* clonedList(Node *head){
+        Node *dummyNode = new Node(-1);
+        Node *temp = head;
+        Node *res = dummyNode;
         while(temp!=NULL){
             res->next=temp->next;
             temp->next=temp->next->next;
@@ -33,10 +33,9 @@ class Solution {
         }
         return dummyNode->next;
     }
-public:
     Node* copyRandomList(Node* head) {
-        insertCopyBetweenNode(head);
-        connectRandomPointer(head);
-        return getDeepCloneList(head);
-    }
+        insertCopyBetween(head);
+        connectRandomPointers(head);
+        return clonedList(head);
+   }
 };
