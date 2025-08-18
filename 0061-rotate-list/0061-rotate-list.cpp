@@ -1,14 +1,14 @@
 class Solution {
-    ListNode *findKthNode(ListNode *temp,int i){
+public:
+    ListNode* getKthNode(ListNode *temp,int len){
         int cnt=1;
         while(temp!=NULL){
-            if(cnt==i) return temp;
+            if(cnt==len) return temp;
             cnt++;
             temp=temp->next;
         }
         return temp;
     }
-public:
     ListNode* rotateRight(ListNode* head, int k) {
         if(head==NULL || k==0)
         return head;
@@ -17,13 +17,13 @@ public:
         while(tail->next!=NULL){
             tail=tail->next;
             len+=1;
-        }
+        }   
         if(k%len==0) return head;
         k=k%len;
         tail->next=head;
-        ListNode *newLastNode=findKthNode(head,len-k);
-        head=newLastNode->next;
-        newLastNode->next=NULL;
+        ListNode *newNode = getKthNode(head,len-k);
+        head=newNode->next;
+        newNode->next=NULL;
         return head;
     }
 };
