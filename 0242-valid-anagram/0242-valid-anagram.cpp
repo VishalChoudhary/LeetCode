@@ -5,10 +5,6 @@ public:
         return false;
         sort(s.begin(),s.end());
         sort(t.begin(),t.end());
-        for(int i=0;i<s.size();i++){
-            if(s.at(i)!=t.at(i))
-            return false;
-        }
-        return true;
-    }  
+        return s==t;
+    }
 };
