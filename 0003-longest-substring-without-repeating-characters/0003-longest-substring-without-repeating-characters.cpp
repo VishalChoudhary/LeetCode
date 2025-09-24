@@ -1,8 +1,8 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int l=0,r=0,maxLen=0;
-        int n=s.size();
+        int n = s.size();
+        int l=0,r=0, maxLen=0;
         vector<int> mpp(256,-1);
         while(r<n){
             if(mpp[s[r]]!=-1){
