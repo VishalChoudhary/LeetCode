@@ -1,7 +1,7 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode *head= new ListNode(0);
+        ListNode *head = new ListNode(0);
         ListNode *curr=head;
         while(list1!=NULL && list2!=NULL){
             if(list1->val<=list2->val){
@@ -13,8 +13,8 @@ public:
             }
             curr=curr->next;
         }
-        if(list1!=NULL) curr->next=list1;
-        if(list2!=NULL) curr->next=list2;
+        if(list1) curr->next=list1;
+        if(list2) curr->next=list2;
         return head->next;
     }
 };
